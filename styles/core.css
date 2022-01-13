@@ -3,10 +3,10 @@ html{
   }
   
   body{
-    background-color: rgb(136, 108, 145);
+    background-color: rgb(84, 57, 94);
   }
   header{
-    background-color: #6E00F2;
+    background-color: #230844;
     border: 1px solid black;
   }
   h1{
@@ -16,19 +16,19 @@ html{
     font-weight: bold;
   }
   aside{
-    width:33%;
+    /* width:33%; */
     height:600px;
-    background-color: #E300E8;
+    background-color: #c195c2;
   }
   div{
-    width:33%;
+    /* width:33%; */
     height:600px;
-    background-color: #01EBD6;
+    background-color: #709e9a;
   }
   section{
-    width: 33%;
+    /* width: 33%; */
     height:600px;
-    background-color: #E300E8;
+    background-color: #c69bc7;
   }
   li{
     font-size: larger;
@@ -48,10 +48,10 @@ html{
   h3{
     font-size: larger;
     font-weight: bold;
-    padding:10px;
+    padding: 10px;
   }
   footer{
-    background-color:#6E00F2;
+    background-color:#21162e;
     text-align: center;
     padding:10px;
     color:white;

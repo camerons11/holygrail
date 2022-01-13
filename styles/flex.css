@@ -5,5 +5,16 @@ main{
 aside{
     display:flex;
     justify-content:center;
-    align
+    align-items: center;
+}
+div{
+  display:flex;
+  flex-direction: column;
+  justify-content:center ;  
+}
+section{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
 }

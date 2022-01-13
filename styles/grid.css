@@ -1,0 +1,26 @@
+main{
+   display:grid;
+ grid-template-columns: 1fr 1fr 1fr
+}
+
+aside {
+display:grid;
+}
+
+ul{
+display:grid;  
+}
+
+li{
+  justify-self: center;
+}
+
+section{
+  display:grid;
+  justify-self: center;
+}
+h3{
+  grid-row-start: 2 ;
+  grid-row-end:3;
+}
+
